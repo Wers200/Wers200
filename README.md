@@ -14,10 +14,10 @@
 | Place | Name |
 | ------ | ------ |
 | Discord | DV Game#9904 |
-| Youtube (pretty empty) | [DV game](https://www.youtube.com/channel/UCaco8Vx4QIUQaAsJ8Mr_Pmg) |
-| Twitch (empty) | [wers1331](https://www.twitch.tv/wers1331) |
-| Steam (core name) | [themisterhomyak](https://steamcommunity.com/profiles/76561199044854598/) |
-| Terraria Forums | [DV Game](https://forums.terraria.org/index.php?members/dv-game.213693/) |
+| Youtube | [DV game](https://www.youtube.com/channel/UCaco8Vx4QIUQaAsJ8Mr_Pmg) |
+| Twitch | [wers1331](https://www.twitch.tv/wers1331) |
+| Steam | [themisterhomyak](https://steamcommunity.com/profiles/76561199044854598/) |
+| TCF | [DV Game](https://forums.terraria.org/index.php?members/dv-game.213693/) |
 
 ### My GitHub main statistics:
 
