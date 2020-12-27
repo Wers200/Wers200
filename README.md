@@ -11,13 +11,13 @@
 #### I have a friend-programmer [homvp](https://github.com/Compdog-inc) as well, and I am working with him for Just A Game and Robodog.
 
 ### My usernames in other places are:
-| Place | Name | Description |
-| ------ | ------ | ------ |
-| Discord | DV Game#9904 | none |
-| Youtube | [DV game](https://www.youtube.com/channel/UCaco8Vx4QIUQaAsJ8Mr_Pmg) | only one video |
-| Twitch | [wers1331](https://www.twitch.tv/wers1331) | channel is empty |
-| Steam | [themisterhomyak](https://steamcommunity.com/profiles/76561199044854598/) | used core name |
-| TCF | [DV Game](https://forums.terraria.org/index.php?members/dv-game.213693/) | terraria forums |
+| Place | Name |
+| ------ | ------ |
+| Discord | DV Game#9904 | 
+| Youtube | [DV game](https://www.youtube.com/channel/UCaco8Vx4QIUQaAsJ8Mr_Pmg) |
+| Twitch | [wers1331](https://www.twitch.tv/wers1331) |
+| Steam | [DV Game](https://steamcommunity.com/profiles/76561199044854598/) |
+| TCF | [DV Game](https://forums.terraria.org/index.php?members/dv-game.213693/) |
 
 ### My GitHub main statistics:
 
