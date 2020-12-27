@@ -14,7 +14,7 @@
 | Place | Name |
 | ------ | ------ |
 | Discord | DV Game#9904 |
-| Youtube (empty) | [DV game](https://www.youtube.com/channel/UCaco8Vx4QIUQaAsJ8Mr_Pmg) |
+| Youtube | [DV game](https://www.youtube.com/channel/UCaco8Vx4QIUQaAsJ8Mr_Pmg) |
 | Twitch (empty) | [wers1331](https://www.twitch.tv/wers1331) |
 | Steam (core name) | [themisterhomyak](https://steamcommunity.com/profiles/76561199044854598/) |
 | Terraria Forums | [DV Game](https://forums.terraria.org/index.php?members/dv-game.213693/) |
