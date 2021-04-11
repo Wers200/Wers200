@@ -4,7 +4,7 @@
 ### Well, here is projects I am working on:
 | Project | Repository | Priority |
 | ------ | ------ | ------ |
-| Carp Mod | [public repository](https://github.com/Wers200/CarpMod) | #1 |
+| History Fight | [public server repository](https://github.com/Compdog-inc/history-fight) | #1 |
 | Just A Game | no repository | #2 |
 | Robodog | hidden repository | #3 |
 
@@ -14,12 +14,11 @@
 | Place | Name |
 | ------ | ------ |
 | Discord | DV Game#9904 | 
-| Youtube | [DV game](https://www.youtube.com/channel/UCaco8Vx4QIUQaAsJ8Mr_Pmg) |
-| Twitch | [wers1331](https://www.twitch.tv/wers1331) |
+| Youtube | [DV Game](https://www.youtube.com/channel/UCaco8Vx4QIUQaAsJ8Mr_Pmg) |
 | Steam | [DV Game](https://steamcommunity.com/profiles/76561199044854598/) |
 | TCF | [DV Game](https://forums.terraria.org/index.php?members/dv-game.213693/) |
 
-### My GitHub main statistics:
+### My GitHub main stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Wers200&show_icons=true) 
 ### My most used languages:
